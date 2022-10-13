@@ -1,5 +1,5 @@
 package guru.springframework.sdjpaintro;
-// this is test uyes create pull request
+// this is test uyes create pull request ; create jpa tests
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
